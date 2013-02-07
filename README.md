@@ -1,4 +1,4 @@
-# Ozone Widget Framework 
+# Ozone Widget Framework - Coalition Extensions
  
 ## Description
 
